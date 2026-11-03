@@ -1,10 +1,9 @@
 # StudyTrack
 
-Name: Sumitrra Narayanan
-Matric Number: 309867
-Course: STTPK2143 – Application Programming
-Assignment: Assignment 1 – Student Life Mobile App
-Application Name: StudyTrack
+**Student Name:** Sumitrra Narayanan  
+**Matric Number:** 309867  
+**Course:** STTPK2143 – App Programming  
+**Assignment:** Assignment 1 – Student Life Mobile App
 
 A Flutter-based Study Session Log application that helps students record and manage their study activities using a local SQLite database.
 
